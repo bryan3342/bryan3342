@@ -14,6 +14,15 @@
 
 **Limitations.** Will bring up agentic AI unprompted. Still fine-tuning MMA. Requires gym.
 
+## Technologies
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claude-color.svg" alt="Claude SDK" title="Claude SDK" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/openai.svg" alt="OpenAI" title="OpenAI" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" title="Azure" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" title="Cloudflare" width="40" height="40" />
+
 ## Featured projects
 
 - [iris_sentinel](https://github.com/bryan3342/iris_sentinel) - Eye-tracking accessibility interface, Most Popular Hack at HackKnight Fall 2026
